@@ -12,7 +12,14 @@
 6. **Visualization**: Build Streamlit app to interact with hospital pricing insights.
 
 ---
+## 🧠 Technologies Used
 
+- **Snowflake** (Data Warehousing & Processing)
+- **Python** (Data Cleaning & Integration)
+- **Streamlit** (Frontend UI)
+- **Jupyter Notebooks** (ETL Scripts)
+- **SQL** (Dashboards & Data Aggregation)
+---
 ## 🌐 Covered Regions
 
 - Charlotte-Concord-Gastonia, NC-SC
@@ -35,16 +42,6 @@
 - 🏥 Compare prices across hospitals
 - 📉 Visualize and sort charges in ascending/descending order
 - 📊 Interactive charts and tables powered by Snowflake-backed queries
-
----
-
-## 🧠 Technologies Used
-
-- **Snowflake** (Data Warehousing & Processing)
-- **Python** (Data Cleaning & Integration)
-- **Streamlit** (Frontend UI)
-- **Jupyter Notebooks** (ETL Scripts)
-- **SQL** (Dashboards & Data Aggregation)
 
 ---
 
