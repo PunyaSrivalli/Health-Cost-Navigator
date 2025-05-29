@@ -43,6 +43,19 @@
 - 📉 Visualize and sort charges in ascending/descending order
 - 📊 Interactive charts and tables powered by Snowflake-backed queries
 
+### 📸 Dashboard Snapshots
+
+#### CPT Code Search
+![CPT Code Search Dashboard](Dashboard_Images/HealthCostNavigator.png)
+
+#### Comparision of Average Standard Charge for a Service across Cities
+![Comparision of Average Standard Charge for a service across Cities](Dashboard_Images/HealthCostExplorer.png)
+
+#### Comparision Standard Charge Variation across Hospitals
+![Comparision Standard Charge Variation across Hospitals](Dashboard_Images/HospitalPriceVariation.png)
+
+#### Comparision of Insurance Providers across Cities
+![Comparision of Insurance Providers Across Cities](Dashboard_Images/InsuranceProviderComparision.png)
 ---
 
 ## 📈 Ingestion Metrics
